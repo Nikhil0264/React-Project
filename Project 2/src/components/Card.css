@@ -1,0 +1,7 @@
+.bar{
+    display:flex;
+    margin-top:20px;
+    color:blue;
+    background:red;
+    justify-content: center;
+}
